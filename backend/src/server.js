@@ -23,7 +23,7 @@ const __dirname = path.resolve();
 // }
 
 app.use(cors({
-  origin: "https://notes-lac-seven.vercel.app", // frontend Vercel URL
+  origin: "https://notes-alpha-peach.vercel.app/", // frontend Vercel URL
   credentials: true
 }));
 
